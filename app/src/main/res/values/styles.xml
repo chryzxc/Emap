@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorMaroon</item>
+        <item name="colorAccent">@color/colorMaroon</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBarColor">
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorMaroon</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBarMenuColor">
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorMaroon</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="NavigationMapRoute">
+       <item name="routeColor">@color/colorPrimary</item>
+       <item name="routeShieldColor">@color/colorPrimary</item>
+       <item name="routeScale">0.3</item>
+     </style>
+
+    <style name="NavigationView" parent="AppTheme.NoActionBarMenuColor">
+        <item name="navigationViewPrimary">@color/colorPrimary</item>
+        <item name="navigationViewSecondary">@color/colorGrey</item>
+        <item name="navigationViewAccent">@android:color/white</item>
+
+
+
+    </style>
+
+</resources>

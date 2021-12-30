@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Emap</string>
+    <string name="access_token">pk.eyJ1IjoiY2hyeXp4YyIsImEiOiJjamp3M2x6Z2QzeWt2M3JxcXF4NnhzaW0wIn0.n3CwyCTK12x9jCyDLzfkTw</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Visit site</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_search">Search</string>
+    <string name="title_events">Events</string>
+    <string name="title_directions">Directions</string>
+    <string name="title_home">Home</string>
+</resources>
